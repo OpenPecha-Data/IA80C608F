@@ -1,0 +1,204 @@
+id: f288a505e68c41c8a0130c937fe0b4fc
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c73ad6f48f3a4e98896f9258ea7a69c3:
+    span:
+      start: 0
+      end: 11
+    metadata: {}
+  af9627208dfe4b86b5074c40d2a86c42:
+    span:
+      start: 14
+      end: 23
+    metadata: {}
+  4bebba8d12f5449ba272dd85ca2bd294:
+    span:
+      start: 26
+      end: 37
+    metadata: {}
+  de457bd73a13401fa5aae8e0051bd2de:
+    span:
+      start: 40
+      end: 52
+    metadata: {}
+  c792c5d569524e9a9c92c6fd257c3792:
+    span:
+      start: 55
+      end: 75
+    metadata: {}
+  0f77618f6e124d06a5a546f0d00b95e6:
+    span:
+      start: 78
+      end: 92
+    metadata: {}
+  ef3c649c460543c89098125c35e6e452:
+    span:
+      start: 95
+      end: 107
+    metadata: {}
+  a5b3b6d5f5d84053a7690e30a7fb1dcd:
+    span:
+      start: 110
+      end: 122
+    metadata: {}
+  e32f1a069643437e914a097917c077f9:
+    span:
+      start: 125
+      end: 136
+    metadata: {}
+  ac3289376f9d440085b793adc5690a4b:
+    span:
+      start: 139
+      end: 147
+    metadata: {}
+  53d3eb6a77624abd8568bf6c1b8aeac9:
+    span:
+      start: 150
+      end: 154
+    metadata: {}
+  3d126200b2f74cf7b48becf370af755f:
+    span:
+      start: 157
+      end: 162
+    metadata: {}
+  c214693ced764accada7bec7982f8043:
+    span:
+      start: 165
+      end: 171
+    metadata: {}
+  88b858a22a214e67b97fc162ef7e8e5d:
+    span:
+      start: 174
+      end: 184
+    metadata: {}
+  cca5b08aeea848a4b88dc78347cd99f1:
+    span:
+      start: 187
+      end: 195
+    metadata: {}
+  61cae5a7a7004e86a5570621fdc1501e:
+    span:
+      start: 198
+      end: 202
+    metadata: {}
+  6a7aeab2675a45f8b1eecc60abfee261:
+    span:
+      start: 205
+      end: 212
+    metadata: {}
+  bd0e476fec384c33b66032f84fa78d29:
+    span:
+      start: 215
+      end: 228
+    metadata: {}
+  0467dc9c52e54b3b90bdd48933f79bbf:
+    span:
+      start: 231
+      end: 242
+    metadata: {}
+  60e0d2abb83741599fbc1f195eaaa382:
+    span:
+      start: 245
+      end: 247
+    metadata: {}
+  a61ef49bb5af4763b2e626ffbb2aceeb:
+    span:
+      start: 250
+      end: 257
+    metadata: {}
+  79f3a1f486284fd1be0fdc5a1b205b21:
+    span:
+      start: 260
+      end: 266
+    metadata: {}
+  a7b635348cc04145a2009aa064635bee:
+    span:
+      start: 269
+      end: 273
+    metadata: {}
+  f2ca51ed172a4e34ad2ff9c044d43087:
+    span:
+      start: 276
+      end: 277
+    metadata: {}
+  5187a1f85e884399aadd00bf5399a989:
+    span:
+      start: 280
+      end: 299
+    metadata: {}
+  8a0526b640f34be49f3051c97baea1ac:
+    span:
+      start: 302
+      end: 316
+    metadata: {}
+  dbd3619fd83c42a0817f8fcd89911819:
+    span:
+      start: 319
+      end: 329
+    metadata: {}
+  e57a0e35aa9b42c0bdca2acd179a83db:
+    span:
+      start: 332
+      end: 336
+    metadata: {}
+  d25a73c01a7148fb938f593113f2985a:
+    span:
+      start: 339
+      end: 349
+    metadata: {}
+  c123a5c3cc4b469f836e78f91364d038:
+    span:
+      start: 352
+      end: 359
+    metadata: {}
+  30b99103b4f64e1ca86dc999928da1f0:
+    span:
+      start: 362
+      end: 368
+    metadata: {}
+  74e0e4a17f424a9c886694137fff841b:
+    span:
+      start: 371
+      end: 376
+    metadata: {}
+  90db93ae4bb44bb9af54b8428c6ad063:
+    span:
+      start: 379
+      end: 385
+    metadata: {}
+  8ebe8b22776444c185ac8d234b684118:
+    span:
+      start: 388
+      end: 399
+    metadata: {}
+  ae670c43eead428d92ee576843079c36:
+    span:
+      start: 402
+      end: 409
+    metadata: {}
+  2dbe0fa1fa4045699b369ae5598bd00a:
+    span:
+      start: 412
+      end: 420
+    metadata: {}
+  bc688fd436b4405eb17eabdb7ab2d1c7:
+    span:
+      start: 423
+      end: 427
+    metadata: {}
+  dc96a917181b4a8597ef6d9e2bbc2afd:
+    span:
+      start: 430
+      end: 436
+    metadata: {}
+  22fd03a0168a4a8cb09a2afd6fbc67ab:
+    span:
+      start: 439
+      end: 456
+    metadata: {}
+  9243969bd1e5488789c66af07836accb:
+    span:
+      start: 459
+      end: 474
+    metadata: {}
